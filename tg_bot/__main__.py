@@ -31,8 +31,7 @@ _My name is_ *{}*\n_A Powerful Telegram Group Administration Bot to Manage our G
 _Maintained by_ [{}](tg://user?id={})
 
 """
-HELP_STRINGS =
-"""
+HELP_STRINGS ="""
 Hey there! My name is *{}*.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
